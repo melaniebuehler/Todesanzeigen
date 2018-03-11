@@ -38,6 +38,10 @@
 
 ** Gliederung der Todesanzeige
 
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :placement [H]
+   [[file:Bilder/MusterTodesanzeige.png]]
+
 *** Verse und Worte des Trostes
 
 **** Christliche Trauersprüche
