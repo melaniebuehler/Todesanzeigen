@@ -8,6 +8,10 @@
 
 ** Inhalt der Todesanzeige
 
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :placement [H]
+   [[file:Bilder/MusterTodesanzeige.png]]
+
    - Name (gegebenenfalls Geburtsname) des Verstorbenen
    - Geburts- und Todesdatum
    - Ort des Todes
@@ -37,10 +41,6 @@
    gerne nachkommen.
 
 ** Gliederung der Todesanzeige
-
-   #+ATTR_LATEX: :width \textwidth
-   #+ATTR_LATEX: :placement [H]
-   [[file:Bilder/MusterTodesanzeige.png]]
 
 *** Verse und Worte des Trostes
 
