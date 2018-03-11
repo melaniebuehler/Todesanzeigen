@@ -1,6 +1,9 @@
 #+TITLE: Todesanzeigen
 #+AUTHOR: Melanie Bühler
 
+#+LATEX_CLASS_OPTIONS: [ngerman,a4paper,11pt]
+#+LATEX_HEADER: \usepackage{ngerman}
+
 * Todesanzeige
 
 ** Inhalt der Todesanzeige
