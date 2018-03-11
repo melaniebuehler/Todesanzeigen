@@ -536,29 +536,25 @@
 
 *** Einleitung
 
-    #+BEGIN_VERSE
-    In stiller Trauer teilen wir Ihnen mit, dass ...
-    Traurig über den Hinschied und doch dankbar für die Erlösung ...
-    Traurig nehmen wir Abschied von ...
-    Traurig, aber mit vielen schönen Erinnerungen nehmen wir Abschied von ...
-    Mit vielen schönen Erinnerungen nehmen wir Abschied von ...
-    Wir nehmen Abschied von ...
-    In Liebe und Dankbarkeit nehmen wir Abschied von ...
-    Schweren Herzens müssen wir Abschied nehmen von ...
-    Wir machen Ihnen die schmerzliche Mitteilung, dass ...
-    Fassungslos und voller Schmerz teilen wir Ihnen mit, dass ...
-    Ein aussergewöhnlicher Mensch ist von uns gegangen ...
-    Aus einem arbeitsamen Leben in Verantwortung für seine Familie und Mitmenschen ist ...
-    #+END_VERSE
+    - In stiller Trauer teilen wir Ihnen mit, dass ...
+    - Traurig über den Hinschied und doch dankbar für die Erlösung ...
+    - Traurig nehmen wir Abschied von ...
+    - Traurig, aber mit vielen schönen Erinnerungen nehmen wir Abschied von ...
+    - Mit vielen schönen Erinnerungen nehmen wir Abschied von ...
+    - Wir nehmen Abschied von ...
+    - In Liebe und Dankbarkeit nehmen wir Abschied von ...
+    - Schweren Herzens müssen wir Abschied nehmen von ...
+    - Wir machen Ihnen die schmerzliche Mitteilung, dass ...
+    - Fassungslos und voller Schmerz teilen wir Ihnen mit, dass ...
+    - Ein aussergewöhnlicher Mensch ist von uns gegangen ...
+    - Aus einem arbeitsamen Leben in Verantwortung für seine Familie und Mitmenschen ist ...
 
 *** Wertschätzung
 
-    #+BEGIN_VERSE
-    lieben / geliebten
-    guten / herzensguten
-    vorbildlichen / unvergesslichen
-    geschätzten / tapferen
-    #+END_VERSE
+    - lieben / geliebten
+    - guten / herzensguten
+    - vorbildlichen / unvergesslichen
+    - geschätzten / tapferen
 
 *** Beziehung
 
@@ -580,128 +576,82 @@
 
 *** Abschluss der Einleitung
 
-    #+BEGIN_VERSE
-    von uns geschieden / gegangen ist.
-    gestorben / verstorben / entschlafen ist.
-    uns viel zu früh entrissen wurde.
-    von den Altersbeschwerden erlöst worden ist.
-    hat uns allzu früh für immer verlassen.
-    in Kenntnis zu setzen.
-    in aller Stille verlassen.
-    #+END_VERSE
+    - von uns geschieden / gegangen ist.
+    - gestorben / verstorben / entschlafen ist.
+    - uns viel zu früh entrissen wurde.
+    - von den Altersbeschwerden erlöst worden ist.
+    - hat uns allzu früh für immer verlassen.
+    - in Kenntnis zu setzen.
+    - in aller Stille verlassen.
 
 *** Persönliche Angaben
 
-    Er ist im Alter von ... Jahren friedlich entschlafen.
-
-    Sie starb nach längerem Leiden im Alter von ... Jahren.
-
-    Er verschied nach kurzer, schwerer Krankheit im ... Lebensjahr.
-
-    Er verschied nach langer, geduldig / bewundernswert ertragener
-    Krankheit, jedoch unerwartet rasch im ... Lebensjahr.
-
-    Es war ein langer Weg; auch wenn wir damit rechnen mussten und der
-    Tod als Erlöser kam, schmerzt doch die Endgültigkeit.
-
-    Sie wurde im ... Lebensjahr von den Altersbeschwerden erlöst.
-
-    Wir haben mit dir gehofft, gekämpft und gelitten. Jetzt bist du von
-    deiner schweren Krankheit erlöst worden.
-
-    Mit grosser Tapferkeit hast du gegen deine Krankheit gekämpft.
-
-    Im Kreise deiner Familie durftest du nun zu Hause friedlich einschlafen.
-
-    Unerwartet hat ihr Herz aufgehört zu schlagen.
-
-    Er starb unerwartet an einem Herzversagen im Alter von ... Jahren.
-
-    Für uns völlig unerwartet ist sie heute Nacht friedlich eingeschlafen.
-
-    Ihr plötzlicher Tod erschüttert uns.
-
-    Ihr Herz hat aufgehört zu schlagen.
-
-    Er starb im ... Lebensjahr an den Folgen eines tragischen Unglücksfalles
-
-    Wir versuchen, deine Entscheidung zu akzeptieren - verstehen werden wir sie nie.
-
-    Er hat erkannt, dass diese Welt nie die seine sein wird.
-
-    Ausserstande, ihm zu helfen, müssen wir seinen Entschluss akzeptieren.
-
-    Sie hat uns in Würde / Stille verlassen, da sie erkannt hat, dass diese Welt nie die ihre sein wird.
+    - Er ist im Alter von ... Jahren friedlich entschlafen.
+    - Sie starb nach längerem Leiden im Alter von ... Jahren.
+    - Er verschied nach kurzer, schwerer Krankheit im ... Lebensjahr.
+    - Er verschied nach langer, geduldig / bewundernswert ertragener Krankheit,
+      jedoch unerwartet rasch im ... Lebensjahr.
+    - Es war ein langer Weg; auch wenn wir damit rechnen mussten und der Tod als
+      Erlöser kam, schmerzt doch die Endgültigkeit.
+    - Sie wurde im ... Lebensjahr von den Altersbeschwerden erlöst.
+    - Wir haben mit dir gehofft, gekämpft und gelitten. Jetzt bist du von deiner
+      schweren Krankheit erlöst worden.
+    - Mit grosser Tapferkeit hast du gegen deine Krankheit gekämpft.
+    - Im Kreise deiner Familie durftest du nun zu Hause friedlich einschlafen.
+    - Unerwartet hat ihr Herz aufgehört zu schlagen.
+    - Er starb unerwartet an einem Herzversagen im Alter von ... Jahren.
+    - Für uns völlig unerwartet ist sie heute Nacht friedlich eingeschlafen.
+    - Ihr plötzlicher Tod erschüttert uns.
+    - Ihr Herz hat aufgehört zu schlagen.
+    - Er starb im ... Lebensjahr an den Folgen eines tragischen Unglücksfalles.
+    - Wir versuchen, deine Entscheidung zu akzeptieren - verstehen werden wir
+      sie nie.
+    - Er hat erkannt, dass diese Welt nie die seine sein wird.
+    - Ausserstande, ihm zu helfen, müssen wir seinen Entschluss akzeptieren.
+    - Sie hat uns in Würde / Stille verlassen, da sie erkannt hat, dass diese
+      Welt nie die ihre sein wird.
 
 *** Würdigung
 
-    In unseren Herzen wirst du weiterleben.
-
-    Wir werden dich nie vergessen und dich immer in unseren Herzen behalten.
-
-    Deine liebenswerte und fröhliche Art bleibt uns unvergessen.
-
-    Schön, dass es dich gab und wir viele wunderbare Momente haben, die wir ewig in unseren Herzen tragen.
-
-    Wir gedenken deiner in Liebe und Dankbarkeit.
-
-    Dankbar sind wir für die Zeit, die wir mit dir erleben
-    durften. Traurig sind wir über deinen Tod.
-
-    Alle, die dich kannten, wissen, was wir an dir verloren haben.
-
-    Wir verlieren in dir einen gütigen und verständnisvollen Menschen.
-
-    Ihre Herzlichkeit und ihre Lebensfreude bleiben uns in dankbarer
-    Erinnerung.
-
-    Dein fröhliches Wesen und dein herzhaftes Lachen werden wir nie
-    vergessen.
-
-    Deine Liebe und Fürsorge werden uns weiter tragen.
-
-    Die Lücke, die du hinterlässt, ist riesig - wir vermissen dich.
-
-    Deine Begeisterungsfähigkeit, dein Humor und deine Grosszügigkeit
-    waren einzigartig.
-
-    Voller Energie hast du dein Leben stets in den Dienst deiner
-    Mitmenschen gestellt.
-
-    Wir denken mit grosser Liebe und Dankbarkeit an all die wunderschönen
-    Erlebnisse, die uns trösten
-
-    und uns immer mit dir verbinden.
-
-    Wir sind unendlich dankbar für die unvergesslich schöne Zeit mit dir.
-
-    Was du für uns alle mit deinem Lebenswerk getan hast, werden wir dir
-    nie vergessen.
-
-    Du hast uns allen viel gegeben - wir vermissen dich.
-
-    Du bist von uns gegangen, aber nicht aus unseren Herzen.
-
-    In deinem reich erfüllten Leben bist du stets bescheiden und deinem
-    Glauben treu geblieben.
+    - In unseren Herzen wirst du weiterleben.
+    - Wir werden dich nie vergessen und dich immer in unseren Herzen behalten.
+    - Deine liebenswerte und fröhliche Art bleibt uns unvergessen.
+    - Schön, dass es dich gab und wir viele wunderbare Momente haben, die wir
+      ewig in unseren Herzen tragen.
+    - Wir gedenken deiner in Liebe und Dankbarkeit.
+    - Dankbar sind wir für die Zeit, die wir mit dir erleben durften. Traurig
+      sind wir über deinen Tod.
+    - Alle, die dich kannten, wissen, was wir an dir verloren haben.
+    - Wir verlieren in dir einen gütigen und verständnisvollen Menschen.
+    - Ihre Herzlichkeit und ihre Lebensfreude bleiben uns in dankbarer
+      Erinnerung.
+    - Dein fröhliches Wesen und dein herzhaftes Lachen werden wir nie vergessen.
+    - Deine Liebe und Fürsorge werden uns weiter tragen.
+    - Die Lücke, die du hinterlässt, ist riesig - wir vermissen dich.
+    - Deine Begeisterungsfähigkeit, dein Humor und deine Grosszügigkeit waren
+      einzigartig.
+    - Voller Energie hast du dein Leben stets in den Dienst deiner Mitmenschen
+      gestellt.
+    - Wir denken mit grosser Liebe und Dankbarkeit an all die wunderschönen
+      Erlebnisse, die uns trösten und uns immer mit dir verbinden.
+    - Wir sind unendlich dankbar für die unvergesslich schöne Zeit mit dir.
+    - Was du für uns alle mit deinem Lebenswerk getan hast, werden wir dir nie
+      vergessen.
+    - Du hast uns allen viel gegeben - wir vermissen dich.
+    - Du bist von uns gegangen, aber nicht aus unseren Herzen.
+    - In deinem reich erfüllten Leben bist du stets bescheiden und deinem
+      Glauben treu geblieben.
 
 *** Absender
 
-    In stiller Trauer
-
-    In tiefer Trauer
-
-    Die Trauerfamilien
-
-    Die Hinterbliebenen
-
-    Wir vermissen dich
-
-    Im Gedenken
-
-    In liebevoller Erinnerung
-
-    In Liebe Namen der Absender
+    - In stiller Trauer
+    - In tiefer Trauer
+    - Die Trauerfamilien
+    - Die Hinterbliebenen
+    - Wir vermissen dich
+    - Im Gedenken
+    - In liebevoller Erinnerung
+    - In Liebe Namen der Absender
 
 *** Abschiedsfeier und Beisetzung
 
@@ -722,31 +672,27 @@
 
 *** Aufbahrung
 
-    Ort Dauer / Ein letzter Besuch in der Friedhofhalle ... ist bis ... möglich.
-
-    Öffnungszeiten
+    - Ort Dauer / Ein letzter Besuch in der Friedhofhalle ... ist bis
+      ... möglich.
+    - Öffnungszeiten
 
 *** Spenden
 
-    Im Sinne des Verstorbenen sind wir dankbar für Spenden an ...
-
-    Wer des lieben Verstorbenen gedenken will, möge ... berücksichtigen.
-
-    Für allfällige Spenden gedenke man des/der / berücksichtige man bitte ...
-
-    Wer den lieben Verstorbenen anders als mit Blumen ehren möchte, gedenke bitte ...
-
-    Wer des Verstorbenen mit einer Spende gedenken möchte, berücksichtige bitte ...
-
-    Wir bitten von Blumenspenden abzusehen und der/des ... zu gedenken.
-
-    Statt Blumen zu spenden, unterstütze man ...
+    - Im Sinne des Verstorbenen sind wir dankbar für Spenden an ...
+    - Wer des lieben Verstorbenen gedenken will, möge ... berücksichtigen.
+    - Für allfällige Spenden gedenke man des/der / berücksichtige man bitte ...
+    - Wer den lieben Verstorbenen anders als mit Blumen ehren möchte, gedenke
+      bitte ...
+    - Wer des Verstorbenen mit einer Spende gedenken möchte, berücksichtige
+      bitte ...
+    - Wir bitten von Blumenspenden abzusehen und der/des ... zu gedenken.
+    - Statt Blumen zu spenden, unterstütze man ...
 
 ***  Mitteilungen
 
-     Dreissigster: Tag, Datum, Zeit, Ort
-     Leidzirkulare werden nur nach auswärts versandt.
-     Dient / gilt als Leidzirkular.
+     - Dreissigster: Tag, Datum, Zeit, Ort
+     - Leidzirkulare werden nur nach auswärts versandt.
+     - Dient / gilt als Leidzirkular.
 
 * Danksagung
 
@@ -754,34 +700,34 @@
 
 *** Danksagung
 
-    Wir danken
+    - Wir danken
 
-    Ein herzlicher Dank
+    - Ein herzlicher Dank
 
-    Wir danken von ganzem Herzen
+    - Wir danken von ganzem Herzen
 
 ------------- COPY CONTENT HERE ---------------
 
 *** Einleitung
 
-    In den Tagen des Heimgangs
+    - In den Tagen des Heimgangs
 
-    In den schweren Tagen des plötzlichen Hinschieds
+    - In den schweren Tagen des plötzlichen Hinschieds
 
-    In diesen Tagen des Abschieds von unserem lieben und unvergesslichen
+    - In diesen Tagen des Abschieds von unserem lieben und unvergesslichen
 
-    In den schweren Tagen des unerwarteten Heimgangs und des Abschieds
+    - In den schweren Tagen des unerwarteten Heimgangs und des Abschieds
     von meinem lieben Gatten und unserem guten Vater
 
-    Für die grosse Anteilnahme, die uns beim Hinschied Für die vielen
+    - Für die grosse Anteilnahme, die uns beim Hinschied Für die vielen
     Beweise herzlicher Anteilnahme während der Krankheit und beim
     Hinschied
 
-    Allen, die sich in stiller Trauer mit uns verbunden fühlen und ihre
+    - Allen, die sich in stiller Trauer mit uns verbunden fühlen und ihre
     liebevolle Anteilnahme auf so vielfältige Weise zum Ausdruck
     brachten, danken wir von Herzen
 
-    Von einem geliebten Menschen Abschied nehmen zu müssen, gehört zu
+    - Von einem geliebten Menschen Abschied nehmen zu müssen, gehört zu
     den schmerzlichsten Erfahrungen im Leben
 
 *** Name und Daten
@@ -795,87 +741,86 @@
 
 *** Abschluss der Einleitung
 
-    durften wir von unseren Verwandten, Freunden und Bekannten innigste
+    - durften wir von unseren Verwandten, Freunden und Bekannten innigste
     Teilnahme erfahren.
 
-    durften wir viel Anteilnahme und Hilfe erfahren.
+    - durften wir viel Anteilnahme und Hilfe erfahren.
 
-    sprechen wir allen unseren herzlichen Dank aus.
+    - sprechen wir allen unseren herzlichen Dank aus.
 
-    sprechen wir mit diesen Zeilen unseren herzlichen Dank aus.
+    - sprechen wir mit diesen Zeilen unseren herzlichen Dank aus.
 
-    danken wir von ganzem Herzen.
+    - danken wir von ganzem Herzen.
 
-    in ihrem Leben, vor allem auch in ihrem schweren Leiden Gutes getan
+    - in ihrem Leben, vor allem auch in ihrem schweren Leiden Gutes getan
     haben und uns bei ihrem Sterben ihre Teilnahme haben spüren lassen,
     danken wir.
 
-    Es tut gut zu erfahren, wie viel Achtung und Anerkennung unserem
+    - Es tut gut zu erfahren, wie viel Achtung und Anerkennung unserem
     Vater entgegengebracht wurde.
 
 *** Dank an Personen
 
-   Besonders herzlich danken wir Herrn Dr. med. ...
+   - Besonders herzlich danken wir Herrn Dr. med. ...
 
-   Ein besonderer Dank gebührt Herrn Dr. med. ...
+   - Ein besonderer Dank gebührt Herrn Dr. med. ...
 
-   für die ärztliche Betreuung / den ärztlichen Beistand.
+   - für die ärztliche Betreuung / den ärztlichen Beistand.
 
-   Wir danken den Ärzten für die medizinische Betreuung und dem
+   - Wir danken den Ärzten für die medizinische Betreuung und dem
    Pflegepersonal / dem Spitexteam ...  für die fürsorgliche Pflege.
 
-   Ein spezielles Dankeschön gilt dem Personal des Alters? und Pflegeheims ..., welches es verstanden hat, dem Verstorbenen durch aufmerksame und liebevolle Begleitung den Alltag trotz seiner
+   - Ein spezielles Dankeschön gilt dem Personal des Alters? und Pflegeheims ..., welches es verstanden hat, dem Verstorbenen durch aufmerksame und liebevolle Begleitung den Alltag trotz seiner
    Altersbeschwerden angenehm zu gestalten.
-   Ebenso danken wir Herrn Pfarrer ... für seine trostreichen / einfühlsamen Abschiedsworte.
-   Für den feierlich gestalteten Gottesdienst danken wir Frau Pfarrerin ... Für den feierlich gestalteten
-   Gottesdienst danken wir Frau Pfarrerin ...
-   Es gibt Tage und Stunden im Leben, die jeder durchstehen muss. Aber sich getragen zu wissen von
+   - Ebenso danken wir Herrn Pfarrer ... für seine trostreichen / einfühlsamen Abschiedsworte.
+   - Für den feierlich gestalteten Gottesdienst danken wir Frau Pfarrerin ...
+   - Es gibt Tage und Stunden im Leben, die jeder durchstehen muss. Aber sich getragen zu wissen von
    Menschen, die uns nahestehen, gibt unendlich viel Kraft. Dankeschön.
-   Wir danken allen, die der lieben Verstorbenen in ihrem Leben Gutes erwiesen haben.
-   Ein aufrichtiges Dankeschön allen, die dem lieben Verstorbenen in seinem Leben mit Freundschaft
+   - Wir danken allen, die der lieben Verstorbenen in ihrem Leben Gutes erwiesen haben.
+   - Ein aufrichtiges Dankeschön allen, die dem lieben Verstorbenen in seinem Leben mit Freundschaft
    begegnet sind und ihn während seiner Krankheit begleitet haben.
-   Zahllose Hände haben wir geschüttelt. Und waren gerührt. Durften bewegende Briefe, Karten, E-
+   - Zahllose Hände haben wir geschüttelt. Und waren gerührt. Durften bewegende Briefe, Karten, E-
    Mails und SMS lesen. Uns von gesendeten Statements und Hommagen aufmuntern lassen. Blumen in
    Empfang nehmen. Und Geldspenden weiterleiten.
 
 *** Dank an Vereine, Firmen, Institutionen
 
-    Ganz herzlich danken wir auch den Freunden und Bekannten, die dem lieben Verstorbenen die letzte
+    - Ganz herzlich danken wir auch den Freunden und Bekannten, die dem lieben Verstorbenen die letzte
     Ehre erwiesen haben.
-    Ein herzliches Dankeschön gilt den Nachbarn, Schulkameraden und allen, die an der Abschiedsfeier
+    - Ein herzliches Dankeschön gilt den Nachbarn, Schulkameraden und allen, die an der Abschiedsfeier
     teilgenommen haben.
-    Aufrichtigen Dank der Musikgesellschaft ... für ihr ergreifendes Spiel.
-    dem Kirchenchor für die würdige Umrahmung der Trauerfeier.
-    dem Männerchor für den besinnlichen Vortrag.
-    Herzlich danken wir den Fahnendelegationen der Schützen und des Turnvereins sowie allen, die
+    - Aufrichtigen Dank der Musikgesellschaft ... für ihr ergreifendes Spiel.
+    - dem Kirchenchor für die würdige Umrahmung der Trauerfeier.
+    - dem Männerchor für den besinnlichen Vortrag.
+    - Herzlich danken wir den Fahnendelegationen der Schützen und des Turnvereins sowie allen, die
     unserem lieben Verstorbenen die letzte Ehre erwiesen haben.
-    Unser Dank geht auch an die Delegation des ... für ihren letzten Gruss.
-    Wir danken der Geschäftsleitung und dem Personal der Firma ... für ihre Unterstützung und ihre
+    - Unser Dank geht auch an die Delegation des ... für ihren letzten Gruss.
+    - Wir danken der Geschäftsleitung und dem Personal der Firma ... für ihre Unterstützung und ihre
     Anteilnahme.
-    Dank für Gaben, Spenden, Sachen, Blumen Wir danken für die zahlreichen Kranz-, Blumen- und
+    - Dank für Gaben, Spenden, Sachen, Blumen Wir danken für die zahlreichen Kranz-, Blumen- und
     anderen Spenden sowie die Zuwendungen an wohltätige Institutionen.
-    Wir verdanken die vielen letzten Blumengrüsse, die Gaben an wohltätige Institutionen und danken
+    - Wir verdanken die vielen letzten Blumengrüsse, die Gaben an wohltätige Institutionen und danken
     allen, die dem lieben Heimgegangenen die letzte Ehre erwiesen haben.
-    Wir danken für die Spenden von heiligen Messen, die Zuwendungen an wohltätige Institutionen, die
+    - Wir danken für die Spenden von heiligen Messen, die Zuwendungen an wohltätige Institutionen, die
     prächtigen Blumen und Kränze und das stille Mitleid durch Händedruck und in Briefen.
-    Ein herzliches Dankeschön gilt allen, die von unserem lieben Vater Abschied nahmen und in
+    - Ein herzliches Dankeschön gilt allen, die von unserem lieben Vater Abschied nahmen und in
     liebevoller Anteilnahme ihr Beileid mit stillem Händedruck, Karten, Blumen und Spenden bezeugten.
-    Wir verdanken auch die prächtigen Kränze und Blumen, die Zuwendungen an wohltätige
+    - Wir verdanken auch die prächtigen Kränze und Blumen, die Zuwendungen an wohltätige
     Institutionen, die Spenden für späteren Grabschmuck sowie die zahlreichen Briefe und Karten.
 
 ** Berührung
 
-   Diese Verbundenheit zu spüren, war uns Hilfe und Trost.
-   All diese Zeichen der Verbundenheit geben uns Kraft und Trost.
-   Alle Beweise der Anteilnahme sind uns Trost in unserem Leid.
-   Es ist uns ein Bedürfnis, allen unseren aufrichtigen Dank auszusprechen. Die Anteilnahme war
+   - Diese Verbundenheit zu spüren, war uns Hilfe und Trost.
+   - All diese Zeichen der Verbundenheit geben uns Kraft und Trost.
+   - Alle Beweise der Anteilnahme sind uns Trost in unserem Leid.
+   - Es ist uns ein Bedürfnis, allen unseren aufrichtigen Dank auszusprechen. Die Anteilnahme war
    überwältigend.
-   Zu guter Letzt sind wir uns alle einig: Wenn Willy das alles hätte miterleben dürfen, es wäre ihm
+   - Zu guter Letzt sind wir uns alle einig: Wenn Willy das alles hätte miterleben dürfen, es wäre ihm
    zweifellos gegangen wie uns. Er hätte geweint. Er hätte gelacht. Und vor allem, er hätte sich riesig
    gefreut.
 
 ** Absender
 
-   Ort, im Monat, Jahr
-   Absender: die Trauerfamilien, allenfalls mit Namen
-   Dreissigster: Wochentag, Datum, Zeit und Ort
+   - Ort, im Monat, Jahr
+   - Absender: die Trauerfamilien, allenfalls mit Namen
+   - Dreissigster: Wochentag, Datum, Zeit und Ort
