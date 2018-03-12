@@ -110,14 +110,14 @@
      #+BEGIN_VERSE
      Als Gott sah, dass der Weg zu weit,
      der Berg zu hoch und der Atem zu schwach wurde,
-     legte er seinen Arm um ihn du sagte: Komm her...
+     legte er seinen Arm um ihn und sagte: Komm her...
      #+END_VERSE
 
      #+BEGIN_VERSE
      Was du im Leben hast gegeben, dafür ist jeder Dank zu klein.
      Du hast gesorgt für deine Lieben, von früh bis spät, tagaus, tagein.
      Du warst im Leben so bescheiden, nur Pflicht und Arbeit kanntest du,
-     mit allem warst du stets zufrieden drum schlafe sanft in stiller Ruh.
+     mit allem warst du stets zufrieden, drum schlafe sanft in stiller Ruh.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -371,12 +371,13 @@
       nichts ist ungewisser als seine Stunde.
       #+END_VERSE
 
-***** Trauersprüche von Antoine de Saint-Exupéy
+***** Trauersprüche von Antoine de Saint-Exupéry
 
       #+BEGIN_VERSE
       Und wenn du dich getröstet hast, (man tröstet sich immer)
       wirst du froh sein, mich gekannt zu haben.
-      Du wirst immer mein Freund sein. Du wirst dich daran erinnern,
+      Du wirst immer mein Freund sein.
+      Du wirst dich daran erinnern,
       wie gerne du mit mir gelacht hast.
       #+END_VERSE
 
@@ -601,7 +602,8 @@
     - Wir machen Ihnen die schmerzliche Mitteilung, dass ...
     - Fassungslos und voller Schmerz teilen wir Ihnen mit, dass ...
     - Ein aussergewöhnlicher Mensch ist von uns gegangen ...
-    - Aus einem arbeitsamen Leben in Verantwortung für seine Familie und Mitmenschen ist ...
+    - Aus einem arbeitsamen Leben in Verantwortung für seine Familie und
+      Mitmenschen ist ...
 
 *** Wertschätzung
 
@@ -691,7 +693,7 @@
     - Wir sind unendlich dankbar für die unvergesslich schöne Zeit mit dir.
     - Was du für uns alle mit deinem Lebenswerk getan hast, werden wir dir nie
       vergessen.
-    - Du hast uns allen viel gegeben - wir vermissen dich.
+    - Du hast uns allen viel gegeben -- wir vermissen dich.
     - Du bist von uns gegangen, aber nicht aus unseren Herzen.
     - In deinem reich erfüllten Leben bist du stets bescheiden und deinem
       Glauben treu geblieben.
@@ -742,11 +744,11 @@
     - Wir bitten von Blumenspenden abzusehen und der/des ... zu gedenken.
     - Statt Blumen zu spenden, unterstütze man ...
 
-***  Mitteilungen
+*** Mitteilungen
 
-     - Dreissigster: Tag, Datum, Zeit, Ort
-     - Leidzirkulare werden nur nach auswärts versandt.
-     - Dient / gilt als Leidzirkular.
+    - Dreissigster: Tag, Datum, Zeit, Ort
+    - Leidzirkulare werden nur nach auswärts versandt.
+    - Dient / gilt als Leidzirkular
 
 * Danksagung
 
@@ -755,9 +757,7 @@
 *** Danksagung
 
     - Wir danken
-
     - Ein herzlicher Dank
-
     - Wir danken von ganzem Herzen
 
 ------------- COPY CONTENT HERE ---------------
