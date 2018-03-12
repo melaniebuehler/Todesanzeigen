@@ -64,8 +64,10 @@
 **** Traditionelle Trauersprüche
 
      #+BEGIN_VERSE
-     Auch wenn wir dir die Ruhe gönnen, ist voller Trauer unser Herz.
-     Dich leiden sehen, ohne helfen zu können, war für uns der grösste Schmerz.
+     Auch wenn wir dir die Ruhe gönnen,
+     ist voller Trauer unser Herz.
+     Dich leiden sehen, ohne helfen zu können,
+     war für uns der grösste Schmerz.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -74,9 +76,12 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Du hast gesorgt, du hast geschafft, bis dir die Krankheit nahm die Kraft.
-     Schlicht und einfach war dein Leben, treu und fleissig deine Hand,
-     immer helfend für die Deinen, ruhe sanft und habe Dank.
+     Du hast gesorgt, du hast geschafft,
+     bis dir die Krankheit nahm die Kraft.
+     Schlicht und einfach war dein Leben,
+     treu und fleissig deine Hand,
+     immer helfend für die Deinen,
+     ruhe sanft und habe Dank.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -106,7 +111,7 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Keiner geht ganz von uns - er geht nur voraus!
+     Keiner geht ganz von uns -- er geht nur voraus!
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -129,10 +134,14 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Was du im Leben hast gegeben, dafür ist jeder Dank zu klein.
-     Du hast gesorgt für deine Lieben, von früh bis spät, tagaus, tagein.
-     Du warst im Leben so bescheiden, nur Pflicht und Arbeit kanntest du,
-     mit allem warst du stets zufrieden, drum schlafe sanft in stiller Ruh.
+     Was du im Leben hast gegeben,
+     dafür ist jeder Dank zu klein.
+     Du hast gesorgt für deine Lieben,
+     von früh bis spät, tagaus, tagein.
+     Du warst im Leben so bescheiden,
+     nur Pflicht und Arbeit kanntest du,
+     mit allem warst du stets zufrieden,
+     drum schlafe sanft in stiller Ruh.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -141,10 +150,14 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Du siehst den Garten nicht mehr grünen, indem du einst so froh geschafft.
-     Du siehst die Blumen nicht mehr blühen, weil der Tod dir nahm die Kraft.
-     Was du aus Liebe uns gegeben, dafür ist jeder Dank zu klein.
-     Was wir an dir verloren, das wissen wir nur ganz allein.
+     Du siehst den Garten nicht mehr grünen,
+     indem du einst so froh geschafft.
+     Du siehst die Blumen nicht mehr blühen,
+     weil der Tod dir nahm die Kraft.
+     Was du aus Liebe uns gegeben,
+     dafür ist jeder Dank zu klein.
+     Was wir an dir verloren,
+     das wissen wir nur ganz allein.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -157,7 +170,8 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Wenn Liebe einen Weg zum Himmel fände und Erinnerungen Stufen hätten,
+     Wenn Liebe einen Weg zum Himmel fände
+     und Erinnerungen Stufen hätten,
      dann würden wir hinaufsteigen und dich zurückholen!
      #+END_VERSE
 
@@ -211,8 +225,10 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Der Tod ist nicht das Ende, nicht die Vergänglichkeit,
-     der Tod ist nur die Wende, Beginn der Ewigkeit.
+     Der Tod ist nicht das Ende,
+     nicht die Vergänglichkeit,
+     der Tod ist nur die Wende,
+     Beginn der Ewigkeit.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -221,10 +237,8 @@
      #+END_VERSE
 
      #+BEGIN_VERSE
-     Es kann nicht sein,
-     so will uns scheinen,
-     der Platz, wo du einst warst,
-     ist leer.
+     Es kann nicht sein, so will uns scheinen,
+     der Platz, wo du einst warst, ist leer.
      #+END_VERSE
 
      #+BEGIN_VERSE
@@ -252,14 +266,17 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Von guten Mächten wundersam geborgen, erwarten wir getrost was kommen mag.
-      Gott ist mit uns am Abend und am Morgen und ganz gewiss an jedem neuen Tag.
+      Von guten Mächten wundersam geborgen,
+      erwarten wir getrost was kommen mag.
+      Gott ist mit uns am Abend und am Morgen
+      und ganz gewiss an jedem neuen Tag.
       #+END_VERSE
 
 ***** Trauersprüche von Franz von Assisi
 
       #+BEGIN_VERSE
-      Der Tod ist das Tor zum Licht am Ende eines mühsam gewordenen Weges.
+      Der Tod ist das Tor zum Licht
+      am Ende eines mühsam gewordenen Weges.
       #+END_VERSE
 
       #+BEGIN_VERSE
@@ -315,7 +332,8 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Gott vertrauen heisst: Sich verlassen auf das, was man hofft,
+      Gott vertrauen heisst:
+      Sich verlassen auf das, was man hofft,
       und fest mit dem rechnen, was man nicht sehen kann.
       #+END_VERSE
 
@@ -326,12 +344,14 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Jesus spricht: Ich bin der Weg, die Wahrheit und das Leben;
+      Jesus spricht:
+      Ich bin der Weg, die Wahrheit und das Leben;
       niemand kommt zum Vater denn durch mich.
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Christus spricht: Ich bin das Licht der Welt.
+      Christus spricht:
+      Ich bin das Licht der Welt.
       #+END_VERSE
 
       #+BEGIN_VERSE
@@ -357,9 +377,11 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Lass mich schlafen, bedecke nicht meine Brust mit Weinen und Seufzen,
+      Lass mich schlafen,
+      bedecke nicht meine Brust mit Weinen und Seufzen,
       sprich nicht voll Kummer von meinem Weggehen,
-      sondern schliesse deine Augen, und du wirst mich unter euch sehen,
+      sondern schliesse deine Augen,
+      und du wirst mich unter euch sehen,
       jetzt und immer.
       #+END_VERSE
 
@@ -402,8 +424,9 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Wenn du bei Nacht den Himmel anschaust, wird es dir sein,
-      als lachten alle Sterne, weil ich auf einem von ihnen wohne,
+      Wenn du bei Nacht den Himmel anschaust,
+      wird es dir sein, als lachten alle Sterne,
+      weil ich auf einem von ihnen wohne,
       weil ich auf einem von ihnen lache.
       #+END_VERSE
 
@@ -424,8 +447,10 @@
 ***** Trauersprüche von Aurelius Augustinus
 
       #+BEGIN_VERSE
-      Unsere Toten sind nicht abwesend, sondern nur unsichtbar.
-      Sie schauen mit ihren Augen voller Licht in unsere Augen voller Trauer.
+      Unsere Toten sind nicht abwesend,
+      sondern nur unsichtbar.
+      Sie schauen mit ihren Augen voller Licht
+      in unsere Augen voller Trauer.
       #+END_VERSE
 
       #+BEGIN_VERSE
@@ -450,7 +475,8 @@
 ***** Trauerspruch von Christian Friedrich Hebbel
 
       #+BEGIN_VERSE
-      Die Hoffnung ist wie ein Sonnenstrahl, der in ein trauriges Herz dringt.
+      Die Hoffnung ist wie ein Sonnenstrahl,
+      der in ein trauriges Herz dringt.
       Öffne es weit und lass sie hinein.
       #+END_VERSE
 
@@ -472,7 +498,8 @@
 ***** Trauerspruch von Franz Kafka
 
       #+BEGIN_VERSE
-      Man sieht die Sonne langsam untergehen und erschrickt doch,
+      Man sieht die Sonne langsam untergehen
+      und erschrickt doch,
       wenn es plötzlich dunkel ist.
       #+END_VERSE
 
@@ -497,7 +524,8 @@
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Wir hoffen immer, und in allen Dingen ist besser hoffen als verzweifeln.
+      Wir hoffen immer,
+      und in allen Dingen ist besser hoffen als verzweifeln.
       #+END_VERSE
 
       #+BEGIN_VERSE
@@ -699,7 +727,7 @@
     - Dein fröhliches Wesen und dein herzhaftes Lachen werden wir nie
       vergessen.
     - Deine Liebe und Fürsorge werden uns weiter tragen.
-    - Die Lücke, die du hinterlässt, ist riesig - wir vermissen dich.
+    - Die Lücke, die du hinterlässt, ist riesig -- wir vermissen dich.
     - Deine Begeisterungsfähigkeit, dein Humor und deine Grosszügigkeit waren
       einzigartig.
     - Voller Energie hast du dein Leben stets in den Dienst deiner Mitmenschen
