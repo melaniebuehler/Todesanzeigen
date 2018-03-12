@@ -20,27 +20,27 @@
    - Verfasser der Anzeige
    - Informationen zur Bestattung
 
-   Wenn es in Ordnung ist, dass eine unbekannte Zahl von Trauergästen zur
-   Bestattung kommt, so kann man die Informationen über Termin und Ort
-   der Bestattung in der Todesanzeige publizieren. So erspart man es
-   sich, gesonderte Einladungen zu versenden.
+     Wenn es in Ordnung ist, dass eine unbekannte Zahl von Trauergästen zur
+     Bestattung kommt, so kann man die Informationen über Termin und Ort der
+     Bestattung in der Todesanzeige publizieren. So erspart man es sich,
+     gesonderte Einladungen zu versenden.
 
    - Information zur Todesart
 
-   In vielen Todesanzeigen wird kurz auf den Grund für den Todesfall
-   eingegangen, zum Beispiel nach langer Krankheit oder durch einen
-   tragischen Unfall. Diese Information in der Traueranzeige kann es den
-   Hinterbliebenen ersparen, auf Nachfragen reagieren zu müssen, die
-   nähere Informationen einfordern.
+     In vielen Todesanzeigen wird kurz auf den Grund für den Todesfall
+     eingegangen, zum Beispiel nach langer Krankheit oder durch einen tragischen
+     Unfall. Diese Information in der Traueranzeige kann es den Hinterbliebenen
+     ersparen, auf Nachfragen reagieren zu müssen, die nähere Informationen
+     einfordern.
 
    - Wünsche für die Abdankungsfeier
 
-   In der Todesanzeige kann man auch auf besondere Wünsche für die Feier
-   hinweisen, so zum Beispiel den Verzicht auf Blumen- oder Kranzspenden
-   oder die Bitte, am Grab von Beileidsbekundungen abzusehen. Wer möchte,
-   kann eine Organisation angeben, an die das für den Kranz gedachte Geld
-   gespendet werden kann. Die meisten Trauergäste werden diesen Wünschen
-   gerne nachkommen.
+     In der Todesanzeige kann man auch auf besondere Wünsche für die Feier
+     hinweisen, so zum Beispiel den Verzicht auf Blumen- oder Kranzspenden oder
+     die Bitte, am Grab von Beileidsbekundungen abzusehen. Wer möchte, kann eine
+     Organisation angeben, an die das für den Kranz gedachte Geld gespendet
+     werden kann. Die meisten Trauergäste werden diesen Wünschen gerne
+     nachkommen.
 
 ** Gliederung der Todesanzeige
 
@@ -678,10 +678,11 @@
     - Dankbar sind wir für die Zeit, die wir mit dir erleben durften. Traurig
       sind wir über deinen Tod.
     - Alle, die dich kannten, wissen, was wir an dir verloren haben.
-    - Wir verlieren in dir einen gütigen und verständnisvollen Menschen.
+    - Wir verlieren mit dir einen gütigen und verständnisvollen Menschen.
     - Ihre Herzlichkeit und ihre Lebensfreude bleiben uns in dankbarer
       Erinnerung.
-    - Dein fröhliches Wesen und dein herzhaftes Lachen werden wir nie vergessen.
+    - Dein fröhliches Wesen und dein herzhaftes Lachen werden wir nie
+      vergessen.
     - Deine Liebe und Fürsorge werden uns weiter tragen.
     - Die Lücke, die du hinterlässt, ist riesig - wir vermissen dich.
     - Deine Begeisterungsfähigkeit, dein Humor und deine Grosszügigkeit waren
