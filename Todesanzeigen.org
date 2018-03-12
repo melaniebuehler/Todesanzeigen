@@ -220,7 +220,7 @@
 
 **** Christliche Trauersprüche
 
-***** Trauersprüche von Romano Guardini
+***** Trauerspruch von Romano Guardini
 
       #+BEGIN_VERSE
       Der Tod ist die uns zugewandte Seite jenes Ganzen,
@@ -251,7 +251,7 @@
       Wer stirbt, erwacht zum ewigen Leben.
       #+END_VERSE
 
-***** Trauersprüche von Papst Johannes XXIII:
+***** Trauerspruch von Papst Johannes XXIII
 
       #+BEGIN_VERSE
       Unsere Toten gehören zu den Unsichtbaren,
@@ -262,7 +262,7 @@
 
       #+BEGIN_VERSE
       Befiehl dem Herrn Deine Wege und hoffe auf ihn;
-      Er wird`s wohl machen.
+      Er wird's wohl machen.
       #+END_VERSE
 
       #+BEGIN_VERSE
@@ -391,7 +391,7 @@
       weil ich auf einem von ihnen lache.
       #+END_VERSE
 
-***** Trauerspruch von Arthur Schopenhauer
+***** Trauersprüche von Arthur Schopenhauer
 
       #+BEGIN_VERSE
       Ich glaube, dass wenn der Tod unsere Augen schliesst,
@@ -420,7 +420,7 @@
 
       #+BEGIN_VERSE
       Ihr, die ihr mich so geliebt habt,
-      sehet nicht auf das Leben, dass ich beendet habe,
+      sehet nicht auf das Leben, das ich beendet habe,
       sondern auf das, welches ich beginne.
       #+END_VERSE
 
@@ -435,7 +435,7 @@
 
       #+BEGIN_VERSE
       Die Hoffnung ist wie ein Sonnenstrahl, der in ein trauriges Herz dringt.
-      Öf����fne es weit und lass sie hinein.
+      Öffne es weit und lass sie hinein.
       #+END_VERSE
 
 ***** Trauerspruch von Christian Fürchtegott Gellert
@@ -463,7 +463,7 @@
 ***** Trauersprüche von Immanuel Kant
 
       #+BEGIN_VERSE
-      Wer im Gedächtnis seiner Lieben Lebt,
+      Wer im Gedächtnis seiner Lieben lebt,
       der ist nicht tot, der ist nur fern;
       tot ist nur, wer vergessen wird.
       #+END_VERSE
