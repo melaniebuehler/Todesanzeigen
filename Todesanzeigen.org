@@ -1,6 +1,8 @@
 #+TITLE: Todesanzeigen
 #+AUTHOR: Melanie Bühler
 
+#+LANGUAGE: de
+
 #+LATEX_CLASS_OPTIONS: [ngerman,a4paper,11pt]
 #+LATEX_HEADER: \usepackage{ngerman}
 
@@ -43,120 +45,6 @@
 ** Gliederung der Todesanzeige
 
 *** Verse und Worte des Trostes
-
-**** Christliche Trauersprüche
-
-***** Trauersprüche von Romano Guardini
-
-      #+BEGIN_VERSE
-      Der Tod ist die uns zugewandte Seite jenes Ganzen,
-      dessen andere Seite Auferstehung heisst.
-      #+END_VERSE
-
-***** Trauersprüche von Dietrich Bonhoeffer
-
-      #+BEGIN_VERSE
-      Je schöner und voller die Erinnerung, desto schwerer ist die Trennung.
-      Aber die Dankbarkeit verwandelt die Erinnerung in eine stille Freude.
-      Man trägt das vergangene Schöne nicht wie einen Stachel,
-      sondern wie ein kostbares Geschenk in sich.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Von guten Mächten wundersam geborgen, erwarten wir getrost was kommen mag.
-      Gott ist mit uns am Abend und am Morgen und ganz gewiss an jedem neuen Tag.
-      #+END_VERSE
-
-***** Trauersprüche von Franz von Assisi
-
-      #+BEGIN_VERSE
-      Der Tod ist das Tor zum Licht am Ende eines mühsam gewordenen Weges.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Wer stirbt, erwacht zum ewigen Leben.
-      #+END_VERSE
-
-***** Trauersprüche von Papst Johannes XXIII:
-
-      #+BEGIN_VERSE
-      Unsere Toten gehören zu den Unsichtbaren,
-      aber nicht zu den Abwesenden.
-      #+END_VERSE
-
-***** Trauersprüche aus der Bibel
-
-      #+BEGIN_VERSE
-      Befiehl dem Herrn Deine Wege und hoffe auf ihn;
-      Er wird`s wohl machen.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Herr, hier bin ich.
-      Du hast mich gerufen.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei;
-      aber die Liebe ist die grösste unter ihnen.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Der Herr ist mein Hirte, mir wird es an nichts mangeln.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Meine Zeit steht in Deinen Händen.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Fürchte Dich nicht, denn ich habe Dich erlöst;
-      Ich habe Dich bei deinem Namen gerufen.
-      Du bist mein.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Siehe, ich bin bei Euch alle Tage,
-      bis an der Welt Ende!
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      In Deine Hände befehle ich meinen Geist;
-      Du hast mich erlöst, Herr, Du treuer Gott.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Gott vertrauen heisst: Sich verlassen auf das, was man hofft,
-      und fest mit dem rechnen, was man nicht sehen kann.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Der Herr segne Dich und behüte Dich;
-      der Herr lasse sein Angesicht leuchten über Dir und sei Dir gnädig;
-      der Herr hebe sein Angesicht über Dich und gebe Dir Frieden.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Jesus spricht: Ich bin der Weg, die Wahrheit und das Leben;
-      niemand kommt zum Vater denn durch mich.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Christus spricht: Ich bin das Licht der Welt.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Wer mir nachfolgt, wird nicht in der Finsternis bleiben,
-      sondern wird das Licht des Lebens haben.
-      #+END_VERSE
-
-      #+BEGIN_VERSE
-      Ich werde einen Engel schicken, der Dir vorausgeht.
-      Er soll Dich auf dem Weg schützen
-      und Dich an den Ort bringen,
-      den ich bestimmt habe.
-      Achte auf ihn und hör auf seine Stimme.
-      #+END_VERSE
 
 **** Traditionelle Trauersprüche
 
@@ -329,6 +217,120 @@
      zu den Sternen kehren wir zurück,
      von jetzt bis in alle Ewigkeit.
      #+END_VERSE
+
+**** Christliche Trauersprüche
+
+***** Trauersprüche von Romano Guardini
+
+      #+BEGIN_VERSE
+      Der Tod ist die uns zugewandte Seite jenes Ganzen,
+      dessen andere Seite Auferstehung heisst.
+      #+END_VERSE
+
+***** Trauersprüche von Dietrich Bonhoeffer
+
+      #+BEGIN_VERSE
+      Je schöner und voller die Erinnerung, desto schwerer ist die Trennung.
+      Aber die Dankbarkeit verwandelt die Erinnerung in eine stille Freude.
+      Man trägt das vergangene Schöne nicht wie einen Stachel,
+      sondern wie ein kostbares Geschenk in sich.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Von guten Mächten wundersam geborgen, erwarten wir getrost was kommen mag.
+      Gott ist mit uns am Abend und am Morgen und ganz gewiss an jedem neuen Tag.
+      #+END_VERSE
+
+***** Trauersprüche von Franz von Assisi
+
+      #+BEGIN_VERSE
+      Der Tod ist das Tor zum Licht am Ende eines mühsam gewordenen Weges.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Wer stirbt, erwacht zum ewigen Leben.
+      #+END_VERSE
+
+***** Trauersprüche von Papst Johannes XXIII:
+
+      #+BEGIN_VERSE
+      Unsere Toten gehören zu den Unsichtbaren,
+      aber nicht zu den Abwesenden.
+      #+END_VERSE
+
+***** Trauersprüche aus der Bibel
+
+      #+BEGIN_VERSE
+      Befiehl dem Herrn Deine Wege und hoffe auf ihn;
+      Er wird`s wohl machen.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Herr, hier bin ich.
+      Du hast mich gerufen.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei;
+      aber die Liebe ist die grösste unter ihnen.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Der Herr ist mein Hirte, mir wird es an nichts mangeln.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Meine Zeit steht in Deinen Händen.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Fürchte Dich nicht, denn ich habe Dich erlöst;
+      Ich habe Dich bei deinem Namen gerufen.
+      Du bist mein.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Siehe, ich bin bei Euch alle Tage,
+      bis an der Welt Ende!
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      In Deine Hände befehle ich meinen Geist;
+      Du hast mich erlöst, Herr, Du treuer Gott.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Gott vertrauen heisst: Sich verlassen auf das, was man hofft,
+      und fest mit dem rechnen, was man nicht sehen kann.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Der Herr segne Dich und behüte Dich;
+      der Herr lasse sein Angesicht leuchten über Dir und sei Dir gnädig;
+      der Herr hebe sein Angesicht über Dich und gebe Dir Frieden.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Jesus spricht: Ich bin der Weg, die Wahrheit und das Leben;
+      niemand kommt zum Vater denn durch mich.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Christus spricht: Ich bin das Licht der Welt.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Wer mir nachfolgt, wird nicht in der Finsternis bleiben,
+      sondern wird das Licht des Lebens haben.
+      #+END_VERSE
+
+      #+BEGIN_VERSE
+      Ich werde einen Engel schicken, der Dir vorausgeht.
+      Er soll Dich auf dem Weg schützen
+      und Dich an den Ort bringen,
+      den ich bestimmt habe.
+      Achte auf ihn und hör auf seine Stimme.
+      #+END_VERSE
 
 **** Trauersprüche von Dichtern und Denkern
 
@@ -513,31 +515,36 @@
 ***** Trauerspruch von William Shakespeare
 
       #+BEGIN_VERSE
-      Wir sind vom gleichen Stoff, aus dem die Träume sind und unser kurzes Leben ist eingebettet
-      in einen langen Schlaf.
+      Wir sind vom gleichen Stoff, aus dem die Träume sind
+      und unser kurzes Leben ist eingebettet in einen langen Schlaf.
       #+END_VERSE
 
 ***** Trauersprüche von Laotse
 
       #+BEGIN_VERSE
-      Ich bin von euch gegangen nur für einen kurzen Augenblick und garnicht weit. Wenn ihr dahin
-      kommt, wohin ich gegangen bin, werdet ihr euch fragen, warum ihr geweint habt.
+      Ich bin von euch gegangen,
+      nur für einen kurzen Augenblick und garnicht weit.
+      Wenn ihr dahin kommt, wohin ich gegangen bin,
+      werdet ihr euch fragen, warum ihr geweint habt.
       #+END_VERSE
 
       #+BEGIN_VERSE
-      Was die Raupe Ende der Welt nennt, nennt der Rest der Welt Schmetterling.
+      Was die Raupe Ende der Welt nennt,
+      nennt der Rest der Welt Schmetterling.
       #+END_VERSE
 
 ***** Trauerspruch von Emmanuel Geibel
 
       #+BEGIN_VERSE
-      Ein ewig Rätsel ist das Leben, und ein Geheimnis bleibt der Tod.
+      Ein ewig Rätsel ist das Leben,
+      und ein Geheimnis bleibt der Tod.
       #+END_VERSE
 
 ***** Trauerspruch von Jean-Paul
 
       #+BEGIN_VERSE
-      Die Erinnerung ist das einzige Paradies, aus dem wir nicht vertrieben werden können.
+      Die Erinnerung ist das einzige Paradies,
+      aus dem wir nicht vertrieben werden können.
       #+END_VERSE
 
 ***** Trauerspruch von Thomas Mann
@@ -551,14 +558,17 @@
 ***** Buddhistischer Trauerspruch von Rabindranath Tagore
 
       #+BEGIN_VERSE
-      Ich kam an deine Küste als ein Fremdling, ich wohnte in deinem Haus als ein Gast, ich verlasse
-      deine Schwelle als ein Freund, meine Erde.
+      Ich kam an deine Küste als ein Fremdling,
+      ich wohnte in deinem Haus als ein Gast,
+      ich verlasse deine Schwelle als ein Freund,
+      meine Erde.
       #+END_VERSE
 
 ***** Buddhistischer Trauerspruch von Mahatma Gandhi
 
       #+BEGIN_VERSE
-      Wer einen Fluss überquert, muss die eine Seite verlassen.
+      Wer einen Fluss überquert,
+      muss die eine Seite verlassen.
       #+END_VERSE
 
 ***** Buddhistische Trauergedichte
