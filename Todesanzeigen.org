@@ -33,36 +33,6 @@
 
 * Todesanzeige
 
-** Inhalt der Todesanzeige
-
-   - Name (gegebenenfalls Geburtsname) des Verstorbenen
-   - Geburts- und Todesdatum
-   - Ort des Todes
-   - Verfasser der Anzeige
-   - Informationen zur Bestattung
-
-     Wenn es in Ordnung ist, dass eine unbekannte Zahl von Trauergästen zur
-     Bestattung kommt, so kann man die Informationen über Termin und Ort der
-     Bestattung in der Todesanzeige publizieren. So erspart man es sich,
-     gesonderte Einladungen zu versenden.
-
-   - Information zur Todesart
-
-     In vielen Todesanzeigen wird kurz auf den Grund für den Todesfall
-     eingegangen, zum Beispiel nach langer Krankheit oder durch einen tragischen
-     Unfall. Diese Information in der Traueranzeige kann es den Hinterbliebenen
-     ersparen, auf Nachfragen reagieren zu müssen, die nähere Informationen
-     einfordern.
-
-   - Wünsche für die Abdankungsfeier
-
-     In der Todesanzeige kann man auch auf besondere Wünsche für die Feier
-     hinweisen, so zum Beispiel den Verzicht auf Blumen- oder Kranzspenden oder
-     die Bitte, am Grab von Beileidsbekundungen abzusehen. Wer möchte, kann eine
-     Organisation angeben, an die das für den Kranz gedachte Geld gespendet
-     werden kann. Die meisten Trauergäste werden diesen Wünschen gerne
-     nachkommen.
-
 ** Gliederung der Todesanzeige
 
    #+ATTR_LATEX: :width \textwidth
