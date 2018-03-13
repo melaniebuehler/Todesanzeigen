@@ -243,8 +243,17 @@
 
 ** Gliederung der Danksagung
 
-*** Danksagung
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :placement [H]
+   [[file:Bilder/MusterDanksagung.png]]
 
+   #+BEGIN_LaTeX
+   \clearpage
+   #+END_LaTeX
+
+*** Titel
+
+    - Danksagung
     - Wir danken
     - Ein herzlicher Dank
     - Wir danken von ganzem Herzen
