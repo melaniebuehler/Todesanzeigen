@@ -1,12 +1,15 @@
-#+TITLE: Todesanzeigen
-#+AUTHOR: Melanie Bühler
+#+TITLE:
+#+AUTHOR:
 
 #+LANGUAGE: de
 
 #+LATEX_CLASS: koma-report
 #+LATEX_CLASS_OPTIONS: [ngerman,a4paper,11pt]
 #+LATEX_HEADER: \usepackage{ngerman}
+#+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+
+#+OPTIONS: toc:nil
 
 #+BEGIN_SRC emacs-lisp :exports none :results silent
   (with-eval-after-load "ox-latex"
@@ -20,6 +23,12 @@
                    ("\\paragraph{%s}" . "\\paragraph*{%s}")
                    ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))))
 #+END_SRC
+
+#+INCLUDE: "Titelseite.tex"
+
+#+BEGIN_LATEX
+\tableofcontents
+#+END_LATEX
 
 * Todesanzeige
 
