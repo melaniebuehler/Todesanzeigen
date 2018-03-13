@@ -8,8 +8,9 @@
 #+LATEX_HEADER: \usepackage{ngerman}
 #+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_HEADER: \addtokomafont{disposition}{\rmfamily}
+#+LATEX_HEADER: \newcommand{\sectionbreak}{\clearpage}
 
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil H:5 num:4
 
 #+BEGIN_SRC emacs-lisp :exports none :results silent
   (with-eval-after-load "ox-latex"
@@ -33,10 +34,6 @@
 * Todesanzeige
 
 ** Inhalt der Todesanzeige
-
-   #+ATTR_LATEX: :width \textwidth
-   #+ATTR_LATEX: :placement [H]
-   [[file:Bilder/MusterTodesanzeige.png]]
 
    - Name (gegebenenfalls Geburtsname) des Verstorbenen
    - Geburts- und Todesdatum
@@ -67,6 +64,14 @@
      nachkommen.
 
 ** Gliederung der Todesanzeige
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :placement [H]
+   [[file:Bilder/MusterTodesanzeige.png]]
+
+   #+BEGIN_LaTeX
+   \clearpage
+   #+END_LaTeX
 
 *** Verse und Worte des Trostes
 
