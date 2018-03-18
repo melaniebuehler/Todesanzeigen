@@ -184,6 +184,10 @@
   von jetzt bis in alle Ewigkeit.
   #+END_VERSE
 
+  #+BEGIN_LaTeX
+  \clearpage
+  #+END_LaTeX
+
 * Christliche Trauersprüche
 
 ** Trauerspruch von Romano Guardini
@@ -303,6 +307,10 @@
    den ich bestimmt habe.
    Achte auf ihn und hör auf seine Stimme.
    #+END_VERSE
+
+   #+BEGIN_LaTeX
+   \clearpage
+   #+END_LaTeX
 
 * Trauersprüche von Dichtern und Denkern
 
@@ -534,6 +542,10 @@
    Die Bande der Liebe werden mit dem Tod nicht durchschnitten.
    #+END_VERSE
 
+   #+BEGIN_LaTeX
+   \clearpage
+   #+END_LaTeX
+
 * Buddhistische Trauersprüche
 
 ** Buddhistischer Trauerspruch von Rabindranath Tagore
@@ -568,3 +580,7 @@
    die ganze Nacht lang.
    Nichts ist weggewischt!
    #+END_VERSE
+
+   #+BEGIN_LaTeX
+   \clearpage
+   #+END_LaTeX
