@@ -350,146 +350,148 @@
 
 * Bilder
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_12278_1032674_Kreuz.png]]
+** Kreuze
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_12458_Seerose_test.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_12278_1032674_Kreuz.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_12728_Kreuz_1.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_12728_Kreuz_1.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_13363_Hintergrund_Rose.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_15447_kreuz_pflanze.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_13876_Hintergrund_Einklang_Todesanzeige.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_18755_Todesanzeigen_Kreuz.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_13964_1070679_Hintergrund_mit_Seerose.png]]
+** Blumen
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_13971_Rose_im_Wald.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_12458_Seerose_test.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_14361_Hintergrund_Rose_2_Hell.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_13363_Hintergrund_Rose.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_15447_kreuz_pflanze.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_13964_1070679_Hintergrund_mit_Seerose.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_15649__Steg.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_13971_Rose_im_Wald.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_15688_Wald..png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_14361_Hintergrund_Rose_2_Hell.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_16157_1122849_Hintergrund_mit_Wald_und_Sonne_1.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_8140_750_0010_8137_rose_02_SW_hell.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_18433_1161980_Hintergrund_Baeume_und_Kreuz.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_8422_Hintergrund_weisse_Rose_Todesanzeige.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_18755_Todesanzeigen_Kreuz.png]]
+** Wald
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_18779_Todesanzeigen.jpg]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_15688_Wald.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_19149__Todesanzeigen.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_16157_1122849_Hintergrund_mit_Wald_und_Sonne_1.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_23639_1256619_Wald.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_19149__Todesanzeigen.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_25344_Jesus_am_Holzkreuz.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_23639_1256619_Wald.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_6103_TA_DS_wald2009.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_028_59925_sz_todes_ta_.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_7300_Hintergrund_Sonnenblume_Todesanzeige.png]]
+** Diverses
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_7431_Hintergrund_Sehnsucht_Todesanzeige_1.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_13876_Hintergrund_Einklang_Todesanzeige.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_8140_750_0010_8137_rose_02_SW_hell.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_15649__Steg.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_0010_8422_Hintergrund_weisse_Rose_Todesanzeige.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_18433_1161980_Hintergrund_Baeume_und_Kreuz.png]]
 
-  #+ATTR_LATEX: :width \textwidth
-  #+ATTR_LATEX: :height .8\textheight
-  #+ATTR_LATEX: :placement [H]
-  #+CAPTION: 
-  [[file:Bilder/Bilder/./750_028_59925_sz_todes_ta_.png]]
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_25344_Jesus_am_Holzkreuz.png]]
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_18779_Todesanzeigen.jpg]]
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_7300_Hintergrund_Sonnenblume_Todesanzeige.png]]
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: 
+   [[file:Bilder/Bilder/750_0010_7431_Hintergrund_Sehnsucht_Todesanzeige_1.png]]
