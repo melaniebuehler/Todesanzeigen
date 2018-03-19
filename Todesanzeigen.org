@@ -393,6 +393,18 @@
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight
    #+ATTR_LATEX: :placement [H]
+   #+CAPTION: Rose 3
+   [[file:Bilder/Bilder/750_0010_8140_750_0010_8137_rose_02_SW_hell.png]]
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
+   #+CAPTION: Rose 4
+   [[file:Bilder/Bilder/750_0010_13971_Rose_im_Wald.png]]
+
+   #+ATTR_LATEX: :width \textwidth
+   #+ATTR_LATEX: :height .8\textheight
+   #+ATTR_LATEX: :placement [H]
    #+CAPTION: Rose im Wasser
    [[file:Bilder/Bilder/750_0010_12458_Seerose_test.png]]
 
@@ -407,16 +419,6 @@
    #+ATTR_LATEX: :placement [H]
    #+CAPTION: Seerose
    [[file:Bilder/Bilder/750_0010_13964_1070679_Hintergrund_mit_Seerose.png]]
-
-
-
-
-   #+ATTR_LATEX: :width \textwidth
-   #+ATTR_LATEX: :height .8\textheight
-   #+ATTR_LATEX: :placement [H]
-   #+CAPTION: 
-   [[file:Bilder/Bilder/750_0010_8140_750_0010_8137_rose_02_SW_hell.png]]
-
 
 ** Wald
 
