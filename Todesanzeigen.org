@@ -356,28 +356,28 @@
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Kreuz 1
+   #+ATTR_LATEX: :caption \bicaption{\\}{Kreuz 1\\}
    [[file:Bilder/Bilder/750_0010_12278_1032674_Kreuz.png]]
 
    #+NAME: img_Kreuz_2
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Kreuz 2
+   #+ATTR_LATEX: :caption \bicaption{\\}{Kreuz 2\\}
    [[file:Bilder/Bilder/750_0010_12728_Kreuz_1.png]]
 
    #+NAME: img_Kreuz_3
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Kreuz 3
+   #+ATTR_LATEX: :caption \bicaption{\\}{Kreuz 3\\}
    [[file:Bilder/Bilder/750_0010_15447_kreuz_pflanze.png]]
 
    #+NAME: img_Kreuz_4
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Kreuz 4
+   #+ATTR_LATEX: :caption \bicaption{\\}{Kreuz 4\\}
    [[file:Bilder/Bilder/750_0010_18755_Todesanzeigen_Kreuz.png]]
 
 ** Blumen
@@ -386,49 +386,49 @@
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Rose 1
+   #+ATTR_LATEX: :caption \bicaption{\\}{Rose 1\\}
    [[file:Bilder/Bilder/750_0010_8422_Hintergrund_weisse_Rose_Todesanzeige.png]]
 
    #+NAME: img_Rose_2
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Rose 2
+   #+ATTR_LATEX: :caption \bicaption{\\}{Rose 2\\}
    [[file:Bilder/Bilder/750_0010_14361_Hintergrund_Rose_2_Hell.png]]
 
    #+NAME: img_Rose_3
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Rose 3
+   #+ATTR_LATEX: :caption \bicaption{\\}{Rose 3\\}
    [[file:Bilder/Bilder/750_0010_8140_750_0010_8137_rose_02_SW_hell.png]]
 
    #+NAME: img_Rose_4
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Rose 4
+   #+ATTR_LATEX: :caption \bicaption{\\}{Rose 4\\}
    [[file:Bilder/Bilder/750_0010_13971_Rose_im_Wald.png]]
 
    #+NAME: img_Rose_im_Wasser
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Rose im Wasser
+   #+ATTR_LATEX: :caption \bicaption{\\}{Rose im Wasser\\}
    [[file:Bilder/Bilder/750_0010_12458_Seerose_test.png]]
 
    #+NAME: img_Pomponella
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Pomponella
+   #+ATTR_LATEX: :caption \bicaption{\\}{Pomponella\\}
    [[file:Bilder/Bilder/750_0010_13363_Hintergrund_Rose.png]]
 
    #+NAME: img_Seerose
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Seerose
+   #+ATTR_LATEX: :caption \bicaption{\\}{Seerose\\}
    [[file:Bilder/Bilder/750_0010_13964_1070679_Hintergrund_mit_Seerose.png]]
 
 ** Wald
@@ -437,35 +437,35 @@
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Wald 1
+   #+ATTR_LATEX: :caption \bicaption{\\}{Wald 1\\}
    [[file:Bilder/Bilder/750_0010_15688_Wald.png]]
 
    #+NAME: img_Wald_2
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Wald 2
+   #+ATTR_LATEX: :caption \bicaption{\\}{Wald 2\\}
    [[file:Bilder/Bilder/750_0010_16157_1122849_Hintergrund_mit_Wald_und_Sonne_1.png]]
 
    #+NAME: img_Wald_3
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Wald 3
+   #+ATTR_LATEX: :caption \bicaption{\\}{Wald 3\\}
    [[file:Bilder/Bilder/750_0010_19149__Todesanzeigen.png]]
 
    #+NAME: img_Wald_4
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Wald 4
+   #+ATTR_LATEX: :caption \bicaption{\\}{Wald 4\\}
    [[file:Bilder/Bilder/750_0010_23639_1256619_Wald.png]]
 
    #+NAME: img_Wald_5
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Wald 5
+   #+ATTR_LATEX: :caption \bicaption{\\}{Wald 5\\}
    [[file:Bilder/Bilder/750_028_59925_sz_todes_ta_.png]]
 
 ** Diverses
@@ -474,47 +474,47 @@
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Berge
+   #+ATTR_LATEX: :caption \bicaption{\\}{Berge\\}
    [[file:Bilder/Bilder/750_0010_13876_Hintergrund_Einklang_Todesanzeige.png]]
 
    #+NAME: img_Steg
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Steg
+   #+ATTR_LATEX: :caption \bicaption{\\}{Steg\\}
    [[file:Bilder/Bilder/750_0010_15649__Steg.png]]
 
    #+NAME: img_Kreuz_unter_Baeume
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Kreuz unter Bäumen
+   #+ATTR_LATEX: :caption \bicaption{\\}{Kreuz unter Bäumen\\}
    [[file:Bilder/Bilder/750_0010_18433_1161980_Hintergrund_Baeume_und_Kreuz.png]]
 
    #+NAME: img_Jesus
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Jesus
+   #+ATTR_LATEX: :caption \bicaption{\\}{Jesus\\}
    [[file:Bilder/Bilder/750_0010_25344_Jesus_am_Holzkreuz.png]]
 
    #+NAME: img_Taube
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Taube
+   #+ATTR_LATEX: :caption \bicaption{\\}{Taube\\}
    [[file:Bilder/Bilder/750_0010_18779_Todesanzeigen.jpg]]
 
    #+NAME: img_Sonnenblume
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Sonnenblume
+   #+ATTR_LATEX: :caption \bicaption{\\}{Sonnenblume\\}
    [[file:Bilder/Bilder/750_0010_7300_Hintergrund_Sonnenblume_Todesanzeige.png]]
 
    #+NAME: img_Ozean
    #+ATTR_LATEX: :width \textwidth
    #+ATTR_LATEX: :height .8\textheight,keepaspectratio
    #+ATTR_LATEX: :placement [H]
-   #+CAPTION: Ozean
+   #+ATTR_LATEX: :caption \bicaption{\\}{Ozean\\}
    [[file:Bilder/Bilder/750_0010_7431_Hintergrund_Sehnsucht_Todesanzeige_1.png]]
